@@ -8,3 +8,10 @@ In here first I have trained a model using Neural Network to detect the Id Card 
 2. We need to add a only the id card (without background) then only it gives perfect result. So we need to find a way to solve it.
 
 ## Screen Shots
+![GitHub](https://github.com/farookfazni/University_Id_Card_Detector/blob/master/1.PNG?raw=true)
+
+
+![GitHub](https://github.com/farookfazni/University_Id_Card_Detector/blob/master/2.PNG?raw=true)
+
+
+![GitHub](https://github.com/farookfazni/University_Id_Card_Detector/blob/master/3.PNG?raw=true)
