@@ -2,7 +2,7 @@
 ## Description
 This is a Simple project that have been developed for extracting details from Uva Wellassa University Id Card. We created this for our third year Image Processing Project. In here if you provide a valid Id card then it extract the details and save it to file. **Note**: This Project is still under development. So if you like to contibute you can contribute to this project.
 
-# Setup
+## Setup
 1. install Tensorflow [setup instructions](https://www.tensorflow.org/install)
 2. install opencv [setup instructions](https://pypi.org/project/opencv-python/), [Docs](https://opencv.org/)
 3. install pytesseract [setup instructions](https://pypi.org/project/pytesseract/)
